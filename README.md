@@ -28,7 +28,10 @@ Développer un site web interactif et immersif permettant de découvrir les menu
 
 ## 🧭 Objectif <a name="objectif"></a>
 
-Le projet *ohmyfood* permet de découvrir les menus de restaurants parisiens prestigieux. L'utilisateur peut réserver une table et personnaliser ses repas directement en ligne, avec une interface soignée et fluide adaptée à tous les types d'appareils.
+* Permettre la découverte des menus de restaurants parisiens prestigieux,  
+* Offrir la possibilité de réserver une table en ligne,  
+* Proposer la personnalisation des repas directement via l’interface,  
+* Développer une interface soignée, fluide et adaptée à tous les appareils.
 
 ---
 
