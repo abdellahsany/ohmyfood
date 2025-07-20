@@ -46,8 +46,7 @@ Développer un site web interactif et immersif permettant de découvrir les menu
 
 ## 📚 Stacks techniques <a name="stacks-techniques"></a>
 
-| Technologie | Description |
-|-------------|-------------|
+| | |
 | [![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML) | Structure sémantique des pages web |
 | [![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) | Mise en page responsive et animations de base |
 | [![SASS](https://img.shields.io/badge/SASS-Syntactically%20Awesome%20Stylesheets-pink)](https://sass-lang.com/) | Organisation des styles CSS |
