@@ -52,14 +52,14 @@ Le site propose également la **réservation en ligne** et la **personnalisation
 ### 🛠️ Stacks techniques
 
 | Outils | Fonction |
-|:------:|:---------|
-| <span style="color:#E34F26; font-weight:bold">HTML5</span> | Structure sémantique des pages |
-| <span style="color:#1572B6; font-weight:bold">CSS3</span> | Mise en page responsive et animations |
-| <span style="color:#CD6799; font-weight:bold">SASS</span> | Organisation et factorisation des styles |
-| <span style="color:#F7DF1E; font-weight:bold">JavaScript</span> | Dynamique et gestion des interactions |
-| <span style="color:#88CE02; font-weight:bold">GSAP</span> | Animations avancées et transitions |
-| <span style="color:#000000; font-weight:bold">GitHub Pages</span> | Hébergement en ligne |
-| <span style="color:#2C9ACD; font-weight:bold">W3C</span> | Validation HTML & CSS conforme |
+|:------:|:---------:|
+| <div align="center"><span style="color:#E34F26; font-weight:bold">HTML5</span></div> | <div align="center">Structure sémantique des pages</div> |
+| <div align="center"><span style="color:#1572B6; font-weight:bold">CSS3</span></div> | <div align="center">Mise en page responsive et animations</div> |
+| <div align="center"><span style="color:#CD6799; font-weight:bold">SASS</span></div> | <div align="center">Organisation et factorisation des styles</div> |
+| <div align="center"><span style="color:#F7DF1E; font-weight:bold">JavaScript</span></div> | <div align="center">Dynamique et gestion des interactions</div> |
+| <div align="center"><span style="color:#88CE02; font-weight:bold">GSAP</span></div> | <div align="center">Animations avancées et transitions</div> |
+| <div align="center"><span style="color:#000000; font-weight:bold">GitHub Pages</span></div> | <div align="center">Hébergement en ligne</div> |
+| <div align="center"><span style="color:#2C9ACD; font-weight:bold">W3C</span></div> | <div align="center">Validation HTML & CSS conforme</div> |
 
 ---
 
