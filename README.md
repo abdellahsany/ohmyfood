@@ -12,10 +12,10 @@
 * [Objectif](#objectif)
 * [Points forts de l’interface](#points-forts-de-linterface)
 * [Stacks techniques](#stacks-techniques)
-* [Fonctionnalités et bonnes pratiques](#fonctionnalités-et-bonnes-pratiques)
+* [Fonctionnalités et bonnes pratiques](#fonctionnalites-et-bonnes-pratiques)
 * [Aspects techniques & automatisation](#aspects-techniques--automatisation)
-* [Points techniques spécifiques](#points-techniques-spécifiques)
-* [Démo live](#-démo-live)
+* [Points techniques spécifiques](#points-techniques-specifiques)
+* [Démo live](#demo-live)
 
 ---
 
