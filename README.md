@@ -24,6 +24,7 @@
 
 Développer un site web immersif permettant de découvrir les menus de **quatre restaurants parisiens**.
 Le projet démarre par une **animation fluide inspirée des intros de jeux vidéo**, rendant l’expérience utilisateur engageante dès l’arrivée.
+
 Le site propose également la **réservation en ligne** et la **personnalisation des menus**, tout en restant responsive et optimisé.
 
 ---
