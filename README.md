@@ -49,15 +49,15 @@ Développer un site web immersif permettant de découvrir les menus de **quatre 
 <a id="stacks-techniques"></a>
 ### 🛠️ Stacks techniques
 
-|    Outils    |    Fonction    |
-|:------------:|----------------|
-| <span style="color:#E34F26; font-weight:bold">HTML5</span>        | Structure sémantique des pages |
-| <span style="color:#1572B6; font-weight:bold">CSS3</span>         | Mise en page responsive et animations |
-| <span style="color:#CD6799; font-weight:bold">SASS</span>         | Organisation et factorisation des styles |
-| <span style="color:#F7DF1E; font-weight:bold">JavaScript</span>   | Dynamique et gestion des interactions |
-| <span style="color:#88CE02; font-weight:bold">GSAP</span>         | Animations avancées et transitions |
+| Outils | Fonction |
+|:-------|:---------|
+| <span style="color:#E34F26; font-weight:bold">HTML5</span> | Structure sémantique des pages |
+| <span style="color:#1572B6; font-weight:bold">CSS3</span> | Mise en page responsive et animations |
+| <span style="color:#CD6799; font-weight:bold">SASS</span> | Organisation et factorisation des styles |
+| <span style="color:#F7DF1E; font-weight:bold">JavaScript</span> | Dynamique et gestion des interactions |
+| <span style="color:#88CE02; font-weight:bold">GSAP</span> | Animations avancées et transitions |
 | <span style="color:#000000; font-weight:bold">GitHub Pages</span> | Hébergement en ligne |
-| <span style="color:#2C9ACD; font-weight:bold">W3C</span>          | Validation HTML & CSS conforme |
+| <span style="color:#2C9ACD; font-weight:bold">W3C</span> | Validation HTML & CSS conforme |
 
 ---
 
