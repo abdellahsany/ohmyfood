@@ -1,97 +1,103 @@
-# *ohmyfood*
+## *Ohmyfood*
 
 <p align="center">
-  <img src="https://github.com/abdellahsany/Ohmyfood/blob/main/assets/logos/2025-06-15_02h50_29.png" alt="Page d’accueil Ohmyfood" height="100%" width="100%">
+  <img src="./assets/logos/2025-06-15_02h50_29.png" alt="Page d’accueil Ohmyfood" width="100%">
 </p>
 
 ---
 
-## 📑 Table des matières
+### 📑 Table des matières
 
 * [Mission](#mission)
 * [Objectif](#objectif)
 * [Points forts de l’interface](#points-forts-de-linterface)
 * [Stacks techniques](#stacks-techniques)
-* [Fonctionnalités et bonnes pratiques techniques](#fonctionnalites-et-bonnes-pratiques-techniques)
-* [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
-* [Points techniques spécifiques](#points-techniques-specifiques)
-* [Accès au projet par clic](#acces-au-projet-par-clic)
-* [Accès au projet par QR](#acces-au-projet-par-qr)
+* [Fonctionnalités et bonnes pratiques](#fonctionnalités-et-bonnes-pratiques)
+* [Aspects techniques & automatisation](#aspects-techniques--automatisation)
+* [Points techniques spécifiques](#points-techniques-spécifiques)
+* [Accès au projet](#accès-au-projet)
+* [Accès via QR code](#accès-via-qr-code)
 
 ---
 
-## 🎯 Mission <a name="mission"></a>
+### 🎯 Mission
 
-Développer un site web interactif et immersif permettant de découvrir les menus de quatre restaurants parisiens. Le projet démarre avec une animation fluide inspirée des intros de jeux vidéo, créant une première interaction dynamique avec l'utilisateur. Cette animation fait apparaître progressivement le contenu, offrant une expérience visuelle engageante dès l'arrivée sur le site. Le site offre également des fonctionnalités de réservation en ligne et de personnalisation des menus, tout en garantissant une interface responsive et optimisée pour tous les appareils.
-
----
-
-## 🧭 Objectif <a name="objectif"></a>
-
-* Permettre la découverte des menus de restaurants parisiens prestigieux,  
-* Offrir la possibilité de réserver une table en ligne,  
-* Proposer la personnalisation des repas directement via l’interface,  
-* Développer une interface soignée, fluide et adaptée à tous les appareils.
+Développer un site web immersif permettant de découvrir les menus de **quatre restaurants parisiens**.
+Le projet démarre par une **animation fluide inspirée des intros de jeux vidéo**, rendant l’expérience utilisateur engageante dès l’arrivée.
+Le site propose également la **réservation en ligne** et la **personnalisation des menus**, tout en restant responsive et optimisé.
 
 ---
 
-## ✨ Points forts de l’interface <a name="points-forts-de-linterface"></a>
+### 🧭 Objectif
 
-* Menus des restaurants présentés sous forme de cartes interactives,
-* Réservation facile en ligne,
-* Design minimaliste et responsive,
-* **Animation de transition fluide entre les pages** pour une expérience utilisateur agréable dès le début.
-
----
-
-## 📚 Stacks techniques <a name="stacks-techniques"></a>
-
-| | |
-| [![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML) | Structure sémantique des pages web |
-| [![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) | Mise en page responsive et animations de base |
-| [![SASS](https://img.shields.io/badge/SASS-Syntactically%20Awesome%20Stylesheets-pink)](https://sass-lang.com/) | Organisation des styles CSS |
-| [![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-yellow)](https://developer.mozilla.org/fr/docs/Web/JavaScript) | Logique dynamique et gestion des animations avancées |
-| [![GSAP](https://img.shields.io/badge/GSAP-Animation%20Library-green)](https://greensock.com/gsap/) | Gestion avancée des animations et transitions fluides |
-| [![GitHub](https://img.shields.io/badge/GitHub-GitHub%20Pages-blue)](https://pages.github.com/) | Hébergement du projet |
-| [![W3C](https://img.shields.io/badge/W3C-Validation-green)](https://www.w3.org/) | Validation HTML et CSS sans erreur |
+* Proposer la découverte de menus interactifs
+* Offrir une réservation simple et rapide
+* Personnaliser les repas directement via l’interface
+* Garantir une expérience fluide sur mobile, tablette et desktop
 
 ---
 
-## ✅ Fonctionnalités et bonnes pratiques techniques <a name="fonctionnalites-et-bonnes-pratiques-techniques"></a>
+### ✨ Points forts de l’interface
 
-* Design Mobile First pour une expérience optimale sur tous les appareils,
-* Aucune utilisation de JavaScript, tout en garantissant une interactivité complète via CSS,
-* Animations fluides pour les transitions entre les pages et les interactions utilisateur.
-
----
-
-## ⚙️ Aspects techniques et automatisation <a name="aspects-techniques-et-automatisation"></a>
-
-* Animation d'entrée : Une animation fluide au chargement du site avec un effet *fade-in*, combinant opacité croissante et glissement vertical, créant une entrée dynamique et captivante.
-* Code versionné sur GitHub pour un suivi optimal,
-* Déploiement sur GitHub Pages pour un accès facile en ligne,
-* Validation W3C pour garantir la qualité et la conformité du code.
+* Menus présentés sous forme de **cartes interactives**
+* Fonctionnalité de **réservation en ligne**
+* Design **minimaliste et responsive**
+* **Animations fluides** pour transitions et interactions
 
 ---
 
-## 🧩 Points techniques spécifiques <a name="points-techniques-specifiques"></a>
+### 🛠️ Stacks techniques
 
-* **Galerie animée** avec navigation fluide entre les images,
-* **Transitions animées** entre les pages pour une meilleure expérience utilisateur,
-* Interface responsive et compatible avec tous les appareils.
+| Outils                                                            | Fonction                                 |
+| ----------------------------------------------------------------- | ---------------------------------------- |
+| <span style="color:#E34F26; font-weight:bold">HTML5</span>        | Structure sémantique des pages           |
+| <span style="color:#1572B6; font-weight:bold">CSS3</span>         | Mise en page responsive et animations    |
+| <span style="color:#CD6799; font-weight:bold">SASS</span>         | Organisation et factorisation des styles |
+| <span style="color:#F7DF1E; font-weight:bold">JavaScript</span>   | Dynamique et gestion des interactions    |
+| <span style="color:#88CE02; font-weight:bold">GSAP</span>         | Animations avancées et transitions       |
+| <span style="color:#000000; font-weight:bold">GitHub Pages</span> | Hébergement en ligne                     |
+| <span style="color:#2C9ACD; font-weight:bold">W3C</span>          | Validation HTML & CSS conforme           |
 
 ---
 
-## 🔗 Accès au projet par clic <a name="acces-au-projet-par-clic"></a> :
+### ✅ Fonctionnalités et bonnes pratiques
 
-<a href="https://abdellahsany.github.io/ohmyfood/">
-  <img src="https://github.com/abdellahsany/Ohmyfood/blob/main/assets/logos/Picture%20(47).png" alt="Cliquez ici" height="55px" width="55px"/>
+* Conception **Mobile First**
+* Animations fluides pour transitions et interactions
+* Code propre et maintenable avec **SASS**
+* Validation HTML & CSS via **W3C**
+
+---
+
+### ⚙️ Aspects techniques & automatisation
+
+* Animation d’entrée avec effet **fade-in** (opacité + glissement vertical)
+* Code versionné sur GitHub
+* Déploiement sur GitHub Pages
+* Validation W3C garantie **sans erreurs**
+
+---
+
+### 🔍 Points techniques spécifiques
+
+* **Galerie animée** avec navigation fluide
+* **Transitions GSAP** pour dynamiser l’interface
+* Compatibilité responsive tous supports
+
+---
+
+### 🔗 Accès au projet
+
+<a href="https://abdellahsany.github.io/ohmyfood/" target="_blank">
+  <img src="https://img.shields.io/badge/Démo_Live-Cliquez_ici-2b303a?style=plastic&logo=github&logoColor=white&labelFont=DejaVu%20Sans&messageFont=DejaVu%20Sans&labelFontSize=12&messageFontSize=12"
+       alt="Démo live"
+       style="width:140px; height:18px; border-radius:10px;">
 </a>
 
 ---
 
-## 📲 Accès au projet par QR <a name="acces-au-projet-par-qr"></a> :
+### 📲 Accès via QR code
 
 <p align="left">
-  <img src="https://github.com/abdellahsany/ohmyfood/blob/main/assets/logos/Picture%20(48).png" alt="QR code pour accéder au projet Ohmyfood" height="55px" width="55px">
+  <img src="./assets/logos/Picture%20(48).png" alt="QR code Ohmyfood" width="120px">
 </p>
