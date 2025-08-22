@@ -86,18 +86,10 @@ Le site propose également la **réservation en ligne** et la **personnalisation
 
 ---
 
-### 🔗 Accès au projet
+### 🔗 Démo live
 
 <a href="https://abdellahsany.github.io/ohmyfood/" target="_blank">
   <img src="https://img.shields.io/badge/Démo_Live-Cliquez_ici-2b303a?style=plastic&logo=github&logoColor=white&labelFont=DejaVu%20Sans&messageFont=DejaVu%20Sans&labelFontSize=12&messageFontSize=12"
        alt="Démo live"
        style="width:140px; height:18px; border-radius:10px;">
 </a>
-
----
-
-### 📲 Accès via QR code
-
-<p align="left">
-  <img src="./assets/logos/Picture%20(48).png" alt="QR code Ohmyfood" width="120px">
-</p>
