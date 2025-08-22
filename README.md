@@ -1,4 +1,4 @@
-## *Ohmyfood*
+## *ohmyfood*
 
 <p align="center">
   <img src="./assets/logos/2025-06-15_02h50_29.png" alt="Page d’accueil Ohmyfood" width="100%">
