@@ -15,8 +15,7 @@
 * [Fonctionnalités et bonnes pratiques](#fonctionnalités-et-bonnes-pratiques)
 * [Aspects techniques & automatisation](#aspects-techniques--automatisation)
 * [Points techniques spécifiques](#points-techniques-spécifiques)
-* [Accès au projet](#accès-au-projet)
-* [Accès via QR code](#accès-via-qr-code)
+* [Démo live](#-démo-live)
 
 ---
 
