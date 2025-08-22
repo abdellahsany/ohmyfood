@@ -52,7 +52,7 @@ Le site propose également la **réservation en ligne** et la **personnalisation
 ### 🛠️ Stacks techniques
 
 | Outils | Fonction |
-|:------:|:--------:|
+|:------:|:---------|
 | <div align="center"><span style="color:#E34F26; font-weight:bold">HTML5</span></div> | Structure sémantique des pages |
 | <div align="center"><span style="color:#1572B6; font-weight:bold">CSS3</span></div> | Mise en page responsive et animations |
 | <div align="center"><span style="color:#CD6799; font-weight:bold">SASS</span></div> | Organisation et factorisation des styles |
