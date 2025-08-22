@@ -51,15 +51,9 @@ Le site propose également la **réservation en ligne** et la **personnalisation
 <a id="stacks-techniques"></a>
 ### 🛠️ Stacks techniques
 
-| Outils | Fonction |
-|:------:|:---------:|
-| <div align="center"><span style="color:#E34F26; font-weight:bold">HTML5</span></div> | <div align="center">Structure sémantique des pages</div> |
-| <div align="center"><span style="color:#1572B6; font-weight:bold">CSS3</span></div> | <div align="center">Mise en page responsive et animations</div> |
-| <div align="center"><span style="color:#CD6799; font-weight:bold">SASS</span></div> | <div align="center">Organisation et factorisation des styles</div> |
-| <div align="center"><span style="color:#F7DF1E; font-weight:bold">JavaScript</span></div> | <div align="center">Dynamique et gestion des interactions</div> |
-| <div align="center"><span style="color:#88CE02; font-weight:bold">GSAP</span></div> | <div align="center">Animations avancées et transitions</div> |
-| <div align="center"><span style="color:#000000; font-weight:bold">GitHub Pages</span></div> | <div align="center">Hébergement en ligne</div> |
-| <div align="center"><span style="color:#2C9ACD; font-weight:bold">W3C</span></div> | <div align="center">Validation HTML & CSS conforme</div> |
+| Outils | Fonction | 
+|:------:|:---------| 
+| <div align="center"><span style="color:#E34F26; font-weight:bold">HTML5</span></div> | Structure sémantique des pages | | <div align="center"><span style="color:#1572B6; font-weight:bold">CSS3</span></div> | Mise en page responsive et animations | | <div align="center"><span style="color:#CD6799; font-weight:bold">SASS</span></div> | Organisation et factorisation des styles | | <div align="center"><span style="color:#F7DF1E; font-weight:bold">JavaScript</span></div> | Dynamique et gestion des interactions | | <div align="center"><span style="color:#88CE02; font-weight:bold">GSAP</span></div> | Animations avancées et transitions | | <div align="center"><span style="color:#000000; font-weight:bold">GitHub Pages</span></div> | Hébergement en ligne | | <div align="center"><span style="color:#2C9ACD; font-weight:bold">W3C</span></div> | Validation HTML & CSS conforme |
 
 ---
 
