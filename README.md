@@ -10,15 +10,16 @@
 
 * [Mission](#mission)
 * [Objectif](#objectif)
-* [Points forts de l’interface](#points-forts-de-linterface)
+* [Points forts de l’interface](#points-forts-interface)
 * [Stacks techniques](#stacks-techniques)
-* [Fonctionnalités et bonnes pratiques](#fonctionnalites-et-bonnes-pratiques)
-* [Aspects techniques & automatisation](#aspects-techniques--automatisation)
+* [Fonctionnalités et bonnes pratiques](#fonctionnalites-bonnes-pratiques)
+* [Aspects techniques & automatisation](#aspects-techniques-automatisation)
 * [Points techniques spécifiques](#points-techniques-specifiques)
 * [Démo live](#demo-live)
 
 ---
 
+<a id="mission"></a>
 ### 🎯 Mission
 
 Développer un site web immersif permettant de découvrir les menus de **quatre restaurants parisiens**.
@@ -27,6 +28,7 @@ Le site propose également la **réservation en ligne** et la **personnalisation
 
 ---
 
+<a id="objectif"></a>
 ### 🧭 Objectif
 
 * Proposer la découverte de menus interactifs
@@ -36,6 +38,7 @@ Le site propose également la **réservation en ligne** et la **personnalisation
 
 ---
 
+<a id="points-forts-interface"></a>
 ### ✨ Points forts de l’interface
 
 * Menus présentés sous forme de **cartes interactives**
@@ -45,6 +48,7 @@ Le site propose également la **réservation en ligne** et la **personnalisation
 
 ---
 
+<a id="stacks-techniques"></a>
 ### 🛠️ Stacks techniques
 
 | Outils                                                            | Fonction                                 |
@@ -59,6 +63,7 @@ Le site propose également la **réservation en ligne** et la **personnalisation
 
 ---
 
+<a id="fonctionnalites-bonnes-pratiques"></a>
 ### ✅ Fonctionnalités et bonnes pratiques
 
 * Conception **Mobile First**
@@ -68,6 +73,7 @@ Le site propose également la **réservation en ligne** et la **personnalisation
 
 ---
 
+<a id="aspects-techniques-automatisation"></a>
 ### ⚙️ Aspects techniques & automatisation
 
 * Animation d’entrée avec effet **fade-in** (opacité + glissement vertical)
@@ -77,6 +83,7 @@ Le site propose également la **réservation en ligne** et la **personnalisation
 
 ---
 
+<a id="points-techniques-specifiques"></a>
 ### 🔍 Points techniques spécifiques
 
 * **Galerie animée** avec navigation fluide
@@ -85,6 +92,7 @@ Le site propose également la **réservation en ligne** et la **personnalisation
 
 ---
 
+<a id="demo-live"></a>
 ### 🔗 Démo live
 
 <a href="https://abdellahsany.github.io/ohmyfood/" target="_blank">
