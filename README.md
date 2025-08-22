@@ -9,7 +9,7 @@
 ### 📑 Table des matières
 
 * [Mission](#mission)
-* [Objectif](#objectif)
+* [Objectifs](#objectifs)
 * [Points forts de l’interface](#points-forts-interface)
 * [Stacks techniques](#stacks-techniques)
 * [Fonctionnalités et bonnes pratiques](#fonctionnalites-bonnes-pratiques)
@@ -28,8 +28,8 @@ Le site propose également la **réservation en ligne** et la **personnalisation
 
 ---
 
-<a id="objectif"></a>
-### 🧭 Objectif
+<a id="objectifs"></a>
+### 🧭 Objectifs
 
 * Proposer la découverte de menus interactifs
 * Offrir une réservation simple et rapide
