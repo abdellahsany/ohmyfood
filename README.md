@@ -49,7 +49,7 @@ Développer un site web immersif permettant de découvrir les menus de **quatre 
 <a id="stacks-techniques"></a>
 ### 🛠️ Stacks techniques
 
-| Outils | Fonction |
+| Outils | Fonctions |
 |:-------|:---------|
 | <span style="color:#E34F26; font-weight:bold">HTML5</span> | Structure sémantique des pages |
 | <span style="color:#1572B6; font-weight:bold">CSS3</span> | Mise en page responsive et animations |
