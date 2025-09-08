@@ -94,7 +94,7 @@ Développer un site web immersif permettant de découvrir les menus de **quatre 
 ### 🔗 Démo live
 
 <a href="https://abdellahsany.github.io/ohmyfood/" target="_blank">
-  <img src="https://img.shields.io/badge/Démo_live-Cliquez_ici-9356DC?style=plastic&logo=github&logoColor=white"
+  <img src="https://img.shields.io/badge/Démo_live-Cliquez_ici-000000?style=plastic&logo=github&logoColor=white"
        alt="Démo live"
        style="width:140px; height:18px; border-radius:10px;">
 </a>
