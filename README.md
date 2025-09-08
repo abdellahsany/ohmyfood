@@ -49,15 +49,18 @@ Développer un site web immersif permettant de découvrir les menus de **quatre 
 <a id="stacks-techniques"></a>
 ### 🛠️ Stacks techniques
 
-| Outils | Fonctions |
-|:-------|:---------|
-| <span style="color:#E34F26; font-weight:bold">HTML5</span> | Structure sémantique des pages |
-| <span style="color:#1572B6; font-weight:bold">CSS3</span> | Mise en page responsive et animations |
-| <span style="color:#CD6799; font-weight:bold">SASS</span> | Organisation et factorisation des styles |
-| <span style="color:#F7DF1E; font-weight:bold">JavaScript</span> | Dynamique et gestion des interactions |
-| <span style="color:#88CE02; font-weight:bold">GSAP</span> | Animations avancées et transitions |
-| <span style="color:#000000; font-weight:bold">GitHub Pages</span> | Hébergement en ligne |
-| <span style="color:#2C9ACD; font-weight:bold">W3C</span> | Validation HTML & CSS conforme |
+| Outils                                                                                | Fonctions                                                                |
+| :------------------------------------------------------------------------------------ | :----------------------------------------------------------------------- |
+| <span style="color:#E34F26; font-weight:bold">HTML5</span>                            | Structure sémantique des pages et intégration des sections interactives  |
+| <span style="color:#1572B6; font-weight:bold">CSS3 / Flexbox / Grid</span>            | Mise en page responsive, transitions et animations légères               |
+| <span style="color:#CD6799; font-weight:bold">SASS</span>                             | Factorisation des styles, variables, mixins, organisation modulaire      |
+| <span style="color:#F7DF1E; font-weight:bold">JavaScript (ES6+)</span>                | Gestion des interactions, des événements et de la logique dynamique      |
+| <span style="color:#88CE02; font-weight:bold">GSAP</span>                             | Animations avancées et transitions fluides pour l’expérience utilisateur |
+| <span style="color:#FF9800; font-weight:bold">Intersection Observer API</span>        | Détection des éléments à l’écran pour déclencher les animations          |
+| <span style="color:#000000; font-weight:bold">GitHub Pages</span>                     | Hébergement en ligne et déploiement continu                              |
+| <span style="color:#2C9ACD; font-weight:bold">W3C</span>                              | Validation HTML & CSS pour garantir la conformité et l’accessibilité     |
+| <span style="color:#9C27B0; font-weight:bold">Mobile First / Responsive Design</span> | Conception priorisant mobile et adaptabilité sur tous les écrans         |
+| <span style="color:#FF4081; font-weight:bold">UX / UI</span>                          | Expérience utilisateur fluide, design minimaliste et ergonomique         |
 
 ---
 
