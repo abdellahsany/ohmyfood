@@ -1,7 +1,7 @@
 ## ohmyfood
 
 <p align="center">
-  <img src="./assets/logos/ohmyfood_welcome.png" alt="Page d’accueil Ohmyfood" width="100%">
+  <img src="./assets/logos/ohmyfood_welcome.png" alt="Page d’accueil ohmyfood" width="100%">
 </p>
 
 ---
